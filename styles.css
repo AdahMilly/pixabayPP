@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sect2 {
+  display: flex;
+  gap: 20px;
+}
+.sect3 {
+  gap: 20px;
+}
+ .imgs-container img {
+    width: 250px;
+    grid-row-end: span 2;
+  }
